@@ -3,6 +3,8 @@ london-rid-map
 
 London map of Regressive Imagery Dictionary categorized tweets by borough during the 2012 Olympics.
 
+Try it live: http://london-rid-map.joshuafrankamp.com
+
 ## Install
 Load dependencies into your checked out directory with ```npm install```
 
