@@ -5,6 +5,8 @@ London map of Regressive Imagery Dictionary categorized tweets by borough during
 
 Try it live: http://london-rid-map.joshuafrankamp.com
 
+Do some analysis yourself: http://github.com/frankamp/node-ridict
+
 ## Install
 Load dependencies into your checked out directory with ```npm install```
 

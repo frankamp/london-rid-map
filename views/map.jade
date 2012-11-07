@@ -1,6 +1,9 @@
 h1 Showing 
-	span#title 
-	
+	span#title
+div(style="float:right")
+	a(href="http://github.com/frankamp/london-rid-map", style="font-size:.8em") What is this?
+	br
+	a(href="/presentation/index.html", style="font-size:.8em") Presentation
 style
 	html, body {
 	height: 90%;
@@ -88,6 +91,11 @@ ul#navlist
 			a(href="##{val}",onClick="displayFacet('#{val}')") #{val}
 div#mapcontainer
 a(href="http://www.kovcomp.co.uk/wordstat/RID.html", style="font-size:9px") Regressive Imagery Dictionary 
+span |
+a(href="http://github.com/frankamp/london-rid-map", style="font-size:9px") Fork this site 
+span |
+a(href="http://github.com/frankamp/node-ridict", style="font-size:9px") RID analysis node module 
+
 script(src='/javascripts/jquery.min.js')
 script(src='/javascripts/modernizr.min.js')
 script(src='/javascripts/polymaps.min.js')
