@@ -34,6 +34,8 @@ There is a geojson created, with additional properties containing the rollup per
 
 With redis the features.json is dynamically created from the underlying stats, without, it is a static copy.
 
+This data was brought you by [@vruba](http://twitter.com/vruba)!
+
 ## Analysis
 
 The tweets are each geocoded and placed within a London borough based on their lat/lon.
